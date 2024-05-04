@@ -18,15 +18,20 @@ The technologies used in this project include:
 
 ### 1
 
-![hidoc DR Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
+<img src="src/Assets/Screenshot%20(4).png" alt="hidoc DR Image 1" width="900" height="570"/>
 
-### 2
 
-![hidoc DR Image-2](https://i.postimg.cc/zvRJY4TF/Health-Plus-Image2.png)
 
-### 3
+<img src="src/Assets/Screenshot%20(5).png" alt="hidoc DR Image 2" width="900" height="570"/>
 
-![hidoc DR Image-3](https://i.postimg.cc/8zGrwbV0/Health-Plus-Image3.png)
+
+<img src="src/Assets/Screenshot%20(6).png" alt="hidoc DR Image 3" width="900" height="570"/>
+
+## Demo Video
+
+<img src="src/Assets/Screenshot%20(6).png" alt="hidoc DR gif" width="900" height="570"/>
+
+
 
 
 ## Getting Started
