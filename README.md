@@ -29,10 +29,10 @@ The technologies used in this project include:
 
 ## Demo Video
 
-<img src="src/Assets/Screenshot%20(6).png" alt="hidoc DR gif" width="900" height="570"/>
+<img src="src/Assets/hidoc-DR_assignment - Trim.gif" alt="hidoc DR gif" width="900" height="570"/>
 
 
-
+#### 😔 Sorry the Video quality is not quiet good you can try run on your machine 👇
 
 ## Getting Started
 
