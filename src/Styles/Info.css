@@ -1,0 +1,165 @@
+.container {
+  display: flex;
+  justify-content: center; /* Adjust as needed */
+  gap: 6px; /* Adjust as needed */
+}
+
+.para{
+  margin-top: 25px;
+  font-size: large;
+  text-align: center;
+}
+
+.InformationCard {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 2.5px solid #000;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  max-width: 800px; /* Adjust as needed */
+  width: 40%;
+  height: 280px;
+}
+
+.highlight {
+  background-color: #56c5db; /* Desired highlight color */
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.horizontal-line {
+  border: none;
+  border-top: 2.5px solid #000; /* Solid black line */
+  margin: 10px 0;
+  width: 100%;
+}
+
+.card-description {
+  margin-top: 15px;
+  font-size: 25px;
+  margin-bottom: 15px; 
+  line-height: 1.7;
+}
+
+
+.info-section {
+  padding: 0 32px;
+  text-align: center;
+  background-color: white;
+}
+.info-title-content {
+  margin: 64px 0 128px 0;
+}
+.info-title {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+.info-title > span {
+  position: relative;
+}
+.info-title span::before {
+  content: "";
+  position: absolute;
+  width: 75%;
+  height: 4px;
+  background-color: #9d2553;
+  border-radius: 8px;
+  left: 0;
+  bottom: -12px;
+}
+.info-description {
+  margin: 64px 50px;
+  text-align: center;
+  color: rgb(77, 75, 75);
+  font-family: "Rubik", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.8px;
+  line-height: inherit;
+  margin-top: 10px;
+}
+.row2 {
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+/* Cards */
+.info-cards-content {
+  margin: 64px 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+.info-cards {
+    height: auto;
+    border: 4px solid #000;
+    border-radius: 2px;
+    background-color: white;
+    position: relative;
+}
+.info-card-title {
+  margin: 32px 0 40px 0;
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+}
+.info-card-description {
+  margin: 24px;
+  color: rgb(77, 75, 75);
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5rem;
+}
+.info-card-icon {
+  position: absolute;
+  top: -24px;
+  left: 44%;
+  padding: 10px;
+  background-color: #dce6ff;
+  border-radius: 30px;
+}
+.info-fa-icon {
+  color: #2c96ff;
+  font-size: 24px;
+}
+
+.info-div {
+  width: 50%; /* Set the width to occupy half of the page */
+  float: left; /* Float the div to the left */
+}
+.Subscribe-button {
+  padding: 13px 30px;
+  background: white;
+  border-radius: 8px;
+}
+
+.Subscribe-buttons {
+  padding: 13px 30px;
+  background: #d8f4ff;
+  border-radius: 8px;
+}
+/* Responsive */
+@media screen and (max-width: 1000px) {
+  .info-description {
+    margin: 64px 32px;
+  }
+  .info-cards-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 700px) {
+  .info-description {
+    margin: 64px 8px;
+  }
+  .info-cards-content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
