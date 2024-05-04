@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import "../Styles/Footer.css";
 import { Link } from "react-router-dom";

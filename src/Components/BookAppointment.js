@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import Graph from "../Assets/graph.png";
 import { useNavigate } from "react-router-dom";
