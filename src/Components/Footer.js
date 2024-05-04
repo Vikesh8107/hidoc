@@ -15,9 +15,6 @@ function Footer() {
       <div className="footer-container" style={{ height: "430px" }}>
         <div className="ft-info">
           <div className="ft-info-p1">
-            {/* <p className="ft-title">
-              Health <span className="ft-sign">+</span>
-            </p> */}
             <Link to="/">
               <img
                 src={require("../Assets/logo-hidoc-footer.png")}
@@ -28,16 +25,31 @@ function Footer() {
             <p className="ft-description">
               Fastest Growing Medical Platform for Doctors.
             </p>
-            <FontAwesomeIcon icon={faFacebookF} style={{ color: "#ffffff", marginRight: "25px"}} size="2xl" />{"   "}
-          
-            <FontAwesomeIcon icon={faInstagram} size="2xl" style={{ marginRight: "25px" }}/>
-          
-            <FontAwesomeIcon icon={faYoutube} size="2xl" style={{ marginRight: "25px" }}/>
+            <FontAwesomeIcon
+              icon={faFacebookF}
+              style={{ color: "#ffffff", marginRight: "25px" }}
+              size="2xl"
+            />
+            {"   "}
 
-            <FontAwesomeIcon icon={faLinkedin} size="2xl" style={{ marginRight: "25px" }}/>
+            <FontAwesomeIcon
+              icon={faInstagram}
+              size="2xl"
+              style={{ marginRight: "25px" }}
+            />
+
+            <FontAwesomeIcon
+              icon={faYoutube}
+              size="2xl"
+              style={{ marginRight: "25px" }}
+            />
+
+            <FontAwesomeIcon
+              icon={faLinkedin}
+              size="2xl"
+              style={{ marginRight: "25px" }}
+            />
           </div>
-
-          {/* <SubscribeNewsletter /> */}
         </div>
 
         <div className="footer-wrapper" style={{ display: "flex" }}>

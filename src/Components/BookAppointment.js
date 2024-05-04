@@ -1,10 +1,5 @@
 import React from "react";
 import Graph from "../Assets/graph.png";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faCircleCheck,
-  faCalendarCheck,
-} from "@fortawesome/free-solid-svg-icons";
 import { useNavigate } from "react-router-dom";
 import "../Styles/BookAppointment.css";
 

@@ -35,7 +35,7 @@ function Navbar() {
           <img
             src={require("../Assets/logo-navbar.png")}
             alt="HealthPlus Logo"
-            style={{ width: "200px" , height: "50px",paddingTop: "10px"}}
+            style={{ width: "200px", height: "50px", paddingTop: "10px" }}
           />
         </Link>
       </h1>

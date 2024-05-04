@@ -1,10 +1,4 @@
 import React from "react";
-import InformationCard from "./InformationCard";
-import {
-  faHeartPulse,
-  faTruckMedical,
-  faTooth,
-} from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Info.css";
 
 function Info() {
@@ -44,16 +38,6 @@ function Info() {
         </div>
       </div>
 
-      {/* <div className="info-cards-content">
-        <InformationCard title="Drug Data" description="Allegtra" />
-
-        <InformationCard
-          title="Drug Details"
-          description="gelatin, glycerin, polyethylene glycol, povidone,
-                      propylene glycol, purified water, sorbitol-sorbitan
-                      solution, titanium dioxide"
-        />
-      </div> */}
       <div className="container">
         <div className="InformationCard">
           <p className="card-title">Drug Data</p>
