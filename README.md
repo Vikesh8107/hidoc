@@ -18,18 +18,18 @@ The technologies used in this project include:
 
 ### 1
 
-<img src="src/Assets/Screenshot%20(4).png" alt="hidoc DR Image 1" width="900" height="570"/>
+<img src="src/Assets/Screenshot%20(4).png" alt="hidoc DR Image 1" width="900" height="540"/>
 
 
 
-<img src="src/Assets/Screenshot%20(5).png" alt="hidoc DR Image 2" width="900" height="570"/>
+<img src="src/Assets/Screenshot%20(5).png" alt="hidoc DR Image 2" width="900" height="540"/>
 
 
-<img src="src/Assets/Screenshot%20(6).png" alt="hidoc DR Image 3" width="900" height="570"/>
+<img src="src/Assets/Screenshot%20(6).png" alt="hidoc DR Image 3" width="900" height="540"/>
 
 ## Demo Video
 
-<img src="src/Assets/hidoc-DR_assignment - Trim.gif" alt="hidoc DR gif" width="900" height="570"/>
+<img src="src/Assets/hidoc-DR_assignment - Trim.gif" alt="hidoc DR gif" width="900" height="540"/>
 
 
 #### 😔 Sorry the Video quality is not quiet good you can try run on your machine 👇
