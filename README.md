@@ -4,6 +4,7 @@ Welcome to the hidoc DR project repository! This is a project I made for the ass
 
 ## Tech Stack
 
+
 The technologies used in this project include:
 
 - React.js
@@ -15,6 +16,8 @@ The technologies used in this project include:
 
 
 ## Screenshots
+
+Below are the screenShots of the Product 
 
 ### 1
 
